@@ -2,8 +2,8 @@
 // Created by arroganz on 11/26/17.
 //
 
-#ifndef FENDER_FSTRING_HPP
-#define FENDER_FSTRING_HPP
+#ifndef UTILS_FSTRING_HPP
+#define UTILS_FSTRING_HPP
 
 # include <sstream>
 # include <vector>
@@ -31,4 +31,4 @@ namespace futils {
     }
 }
 
-#endif //FENDER_FSTRING_HPP
+#endif //UTILS_FSTRING_HPP

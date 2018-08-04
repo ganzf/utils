@@ -2,8 +2,8 @@
 // Created by arroganz on 12/17/17.
 //
 
-#ifndef FENDER_RENDERING_HPP
-#define FENDER_RENDERING_HPP
+#ifndef UTILS_RENDERING_HPP
+#define UTILS_RENDERING_HPP
 
 // This header file is a list of abstract types representing various rendering elements
 
@@ -394,4 +394,4 @@ namespace futils
     };
 }
 
-#endif //FENDER_RENDERING_HPP
+#endif //UTILS_RENDERING_HPP

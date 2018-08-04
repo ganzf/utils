@@ -2,8 +2,8 @@
 // Created by arroganz on 12/19/17.
 //
 
-#ifndef FENDER_RANGE_HPP
-#define FENDER_RANGE_HPP
+#ifndef UTILS_RANGE_HPP
+#define UTILS_RANGE_HPP
 
 # include <random>
 
@@ -68,4 +68,4 @@ namespace futils
     };
 }
 
-#endif //FENDER_RANGE_HPP
+#endif //UTILS_RANGE_HPP

@@ -2,8 +2,8 @@
 // Created by arroganz on 12/16/17.
 //
 
-#ifndef FENDER_MATH_HPP
-#define FENDER_MATH_HPP
+#ifndef UTILS_MATH_HPP
+#define UTILS_MATH_HPP
 
 # include <utility>
 # include "range.hpp"
@@ -182,4 +182,4 @@ namespace futils
     };
 }
 
-#endif //FENDER_MATH_HPP
+#endif //UTILS_MATH_HPP

@@ -2,10 +2,10 @@
 // Created by arroganz on 1/3/18.
 //
 
-#ifndef FENDER_POSITION_HPP
-#define FENDER_POSITION_HPP
+#ifndef UTILS_POSITION_HPP
+#define UTILS_POSITION_HPP
 
-namespace fender
+namespace utils
 {
     struct Position
     {
@@ -15,4 +15,4 @@ namespace fender
     };
 }
 
-#endif //FENDER_POSITION_HPP
+#endif //UTILS_POSITION_HPP

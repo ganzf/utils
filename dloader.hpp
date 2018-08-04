@@ -106,9 +106,9 @@ namespace futils
 		HINSTANCE inst;
 	public:
 		Dloader(std::string const &, int mode = 0) {
-			inst = LoadLibrary("./fender.dll");
+			inst = LoadLibrary("./utils.dll");
 			if (!inst)
-				throw std::runtime_error("Could not load fender.dll");
+				throw std::runtime_error("Could not load utils.dll");
 		}
 
 		template <typename T, typename ...Args>

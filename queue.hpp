@@ -2,8 +2,8 @@
 // Created by arroganz on 1/2/18.
 //
 
-#ifndef FENDER_QUEUE_HPP
-#define FENDER_QUEUE_HPP
+#ifndef UTILS_QUEUE_HPP
+#define UTILS_QUEUE_HPP
 
 # include <vector>
 
@@ -62,4 +62,4 @@ namespace futils
     };
 };
 
-#endif //FENDER_QUEUE_HPP
+#endif //UTILS_QUEUE_HPP

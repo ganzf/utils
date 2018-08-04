@@ -2,8 +2,8 @@
 // Created by arroganz on 11/30/17.
 //
 
-#ifndef FENDER_MODULES_HPP
-#define FENDER_MODULES_HPP
+#ifndef UTILS_MODULES_HPP
+#define UTILS_MODULES_HPP
 
 # include "types.hpp"
 
@@ -44,4 +44,4 @@ namespace futils
     };
 }
 
-#endif //FENDER_MODULES_HPP
+#endif //UTILS_MODULES_HPP

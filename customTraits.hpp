@@ -2,8 +2,8 @@
 // Created by arroganz on 12/3/17.
 //
 
-#ifndef FENDER_CUSTOMTRAITS_HPP
-#define FENDER_CUSTOMTRAITS_HPP
+#ifndef UTILS_CUSTOMTRAITS_HPP
+#define UTILS_CUSTOMTRAITS_HPP
 
 namespace futils
 {
@@ -14,4 +14,4 @@ namespace futils
     };
 }
 
-#endif //FENDER_CUSTOMTRAITS_HPP
+#endif //UTILS_CUSTOMTRAITS_HPP
