@@ -190,7 +190,7 @@ namespace futils
                 if (it.first == futils::type<T>::index)
                     return static_cast<T &>(*it.second);
             }
-            throw std::runtime_error("Entity does not have requested component : " + std::string(typeid(T).name()));
+            throw std::runtime_error("Entity " + std::to_string(this->getId()) + "  does not have requested component : " + std::string(typeid(T).name()));
         };
 
         template <typename Compo>
