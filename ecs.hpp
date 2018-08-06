@@ -489,7 +489,6 @@ namespace futils
                 for (auto it = range.first; it != range.second; it++) {
                     if (temporaryEntitiesRecords.find(it->second) == temporaryEntitiesRecords.end())
                         continue ;
-                    std::cout << "Destructor of " << it->second->getId() << ":" << std::endl;
                     delete it->second;
                     temporaryEntitiesRecords.erase(it->second);
                     entitiesDeleted++;
